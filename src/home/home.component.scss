@@ -1,0 +1,23 @@
+.breadcrumbWrapper {
+  list-style-type: none;
+  font-size: 13px;
+  padding-left: 10px;
+  li {
+    display: inline-block;
+  }
+  li.active {
+    font-weight: bolder;
+  }
+}
+
+.title {
+  margin: 10px 0px;
+}
+
+.sortWrapper {
+  display: inline-grid;
+  margin-left: 5px;
+  svg {
+    cursor: pointer;
+  }
+}

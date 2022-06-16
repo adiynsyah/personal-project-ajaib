@@ -81,9 +81,7 @@ follow the instructions below for setting up project locally. To get a local cop
 
 You must have:
 * node >= 14.0.0
-  ```sh
-  https://nodejs.org/en/
-  ```
+  [Node Js](https://nodejs.org/en/)
 
 ### Installation
 
@@ -104,7 +102,7 @@ You must have:
 
 ### Test
 
-This application is for unit tests using Jest and Enzyme.
+The Unit Test using `Jest` and `Enzyme`.
 
 Running Unit Test
 ```sh

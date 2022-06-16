@@ -108,7 +108,7 @@ This application is for unit tests using Jest and Enzyme.
 
 Running Unit Test
 ```sh
-npm install
+npm test
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 

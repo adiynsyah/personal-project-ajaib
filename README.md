@@ -53,6 +53,7 @@ this is the feature:
 * Filter By Keyword
 * Filter By Gender
 * Reset Filter
+* Ordering Column
 * Pagination
 
 The hope is that with this application everyone can help to find out user data for business and company purposes.
@@ -106,7 +107,7 @@ The Unit Test using `Jest` and `Enzyme`.
 
 Running Unit Test
 ```sh
-npm test
+npm test or npm run test
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
